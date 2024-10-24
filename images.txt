@@ -1,1 +1,7 @@
-bladex/sentinel-dashboard:1.7.2
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/kube-apiserver:v1.28.0
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/kube-controller-manager:v1.28.0
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/kube-scheduler:v1.28.0
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/kube-proxy:v1.28.0
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/pause:3.9
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/etcd:3.5.9-0
+crpi-s7csmzhdi7c87vpk.cn-shanghai.personal.cr.aliyuncs.com/rebirth2bird/coredns:v1.10.1
